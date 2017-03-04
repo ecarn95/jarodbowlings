@@ -79,3 +79,7 @@ a:hover {
 select::-ms-expand {
   display: none;
 }
+
+.beliefs {
+	text-align: center;
+}
