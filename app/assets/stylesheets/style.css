@@ -83,3 +83,13 @@ select::-ms-expand {
 .beliefs {
 	text-align: center;
 }
+
+.col-xs-6 {
+	text-align: center;
+	color: white;
+}
+
+.globe {
+  margin-top: -50px;
+  margin-left: -500px;
+}
