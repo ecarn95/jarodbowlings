@@ -92,4 +92,7 @@ select::-ms-expand {
 .globe {
   margin-top: -50px;
   margin-left: -500px;
+  -webkit-filter: opacity(30%); /* Safari 6.0 - 9.0 */
+  filter: opacity(30%);
+
 }
